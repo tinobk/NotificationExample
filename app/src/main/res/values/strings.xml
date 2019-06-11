@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">NotificationExample</string>
+    <string name="app_name">Pomodoro</string>
+    <string name="show_notification_CP">Complete Pomodoro</string>
+    <string name="show_notification_CR">Complete Relax</string>
+    <string name="content_title_CP">A Pomodoro Complete</string>
+    <string name="content_text_CP">Let\'s relax for a few minutes!</string>
+    <string name="content_title_CR">Time up</string>
+    <string name="content_text_CR">Complete relax, Let\'s back to work</string>
+    <string name="chanel_name">chanel name</string>
+    <string name="channel_description">chanel description</string>
+    <string name="toast_message">toastMessage</string>
+    <string name="notification_action">Action</string>
 </resources>
